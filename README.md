@@ -1,5 +1,6 @@
 # Welcome to My GitHub Profile! 👋
-[![Connect with me on LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)]([link_to_linkedin_profile](https://www.linkedin.com/in/zachary-morris-cncs))
+[![Connect with me on LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zachary-morris-cncs)
+
 
 ## About Me
 
