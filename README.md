@@ -1,6 +1,10 @@
 # Welcome to My GitHub Profile! 👋
 [![Connect with me on LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zachary-morris-cncs)
 
+<!-- 
+Potential Title Code:
+$${\color{lime}Welcome \space \color{lime}to \space \color{lime}my \space \color{lime}Github \space \color{lime}Profile!}$$
+-->
 
 ## About Me
 
