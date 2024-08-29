@@ -1,7 +1,11 @@
 # Welcome to My GitHub Profile! 👋
 [![Connect with me on LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zachary-morris-cncs)
 
-Find My Repositories [Here](https://github.com/Zacham17?tab=repositories)
+Find All My Repositories [Here](https://github.com/Zacham17?tab=repositories)
+
+You can find my Capstone Project Repository [Here](https://github.com/Zacham17/CNCS-Capstone)
+
+My tech journal can be found [Here](https://github.com/Zacham17/my-tech-journal)
 <!-- 
 Potential Title Code:
 $${\color{lime}Welcome \space \color{lime}to \space \color{lime}my \space \color{lime}Github \space \color{lime}Profile!}$$
